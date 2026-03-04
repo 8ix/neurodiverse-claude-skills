@@ -1,0 +1,5 @@
+{
+  "enabledPlugins": {
+    "voice-input-processor@neurodiverse-claude-skills": true
+  }
+}
