@@ -4,7 +4,7 @@ A set of Claude skills I built for myself as a neurodivergent person. If your br
 
 ## What This Is
 
-A growing collection of custom Claude skills built around the friction points I encounter day to day — things like processing messy voice-to-text input, breaking down tasks, translating communication, or reducing cognitive load.
+A growing collection of custom Claude skills built around the friction points I encounter day to day, things like processing messy voice-to-text input, breaking down tasks, translating communication, or reducing cognitive load.
 
 These were built by a neurodivergent engineering manager for personal use — not by a clinician or researcher. They are shared openly in case they are useful to others. They are not a substitute for professional support.
 
