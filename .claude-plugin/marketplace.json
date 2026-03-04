@@ -10,7 +10,7 @@
       "description": "Interprets messy, unstructured voice-to-text input, finds the intent, and reformats it for use",
       "source": {
         "source": "github",
-        "repo": "andbert/neurodiverse-claude-skills"
+        "repo": "8ix/neurodiverse-claude-skills"
       },
       "skills": ["./skills/voice-input-processor"]
     }
