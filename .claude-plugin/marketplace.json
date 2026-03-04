@@ -1,0 +1,8 @@
+{
+  "name": "neurodiverse-claude-skills",
+  "owner": {
+    "name": "andbert"
+  },
+  "description": "A set of Claude skills built for neurodivergent profiles — dyslexia, ADHD, autism, and dyspraxia. Built by a neurodivergent person for personal use, shared openly.",
+  "plugins": []
+}
