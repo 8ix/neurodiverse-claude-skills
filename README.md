@@ -18,7 +18,7 @@ Anyone who finds that their brain creates friction around communication, task ma
 
 | Skill | What It Does | Friction It Addresses |
 |-------|-------------|----------------------|
-| voice-input-processor | Interprets messy, unstructured voice-to-text input, finds the intent, and reformats it for use | Unstructured speech input, non-linear thinking, word substitution errors |
+| [voice-input-processor](skills/voice-input-processor/SKILL.md) | Interprets messy, unstructured voice-to-text input, finds the intent, and reformats it for use | Unstructured speech input, non-linear thinking, word substitution errors |
 
 *This table will grow as skills are added.*
 
