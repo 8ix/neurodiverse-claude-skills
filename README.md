@@ -4,11 +4,11 @@ A set of Claude skills I built for myself as a neurodivergent person. If your br
 
 ## What This Is
 
-A growing collection of custom Claude skills built around four neurodivergent profiles: dyslexia, ADHD, autism, and dyspraxia.
+A growing collection of custom Claude skills built around the friction points I encounter day to day — things like processing messy voice-to-text input, breaking down tasks, translating communication, or reducing cognitive load.
 
 These were built by a neurodivergent engineering manager for personal use — not by a clinician or researcher. They are shared openly in case they are useful to others. They are not a substitute for professional support.
 
-Each skill targets a specific friction point — things like processing messy voice-to-text input, breaking down tasks, translating communication, or reducing cognitive load — rather than being tied to a single diagnosis. Many of the challenges these skills address overlap across multiple profiles.
+The skills are designed around specific friction points rather than diagnostic labels. If a skill solves a problem you recognise, it is probably useful to you regardless of how your brain is wired.
 
 ## Who These Are For
 
@@ -16,9 +16,9 @@ Anyone who finds that their brain creates friction around communication, task ma
 
 ## Skills
 
-| Skill | What It Does | Profiles It Helps With |
+| Skill | What It Does | Friction It Addresses |
 |-------|-------------|----------------------|
-| dyslexia-input-processor | Interprets messy voice-to-text input and cleans it up for use | Dyslexia |
+| voice-input-processor | Interprets messy, unstructured voice-to-text input, finds the intent, and reformats it for use | Unstructured speech input, non-linear thinking, word substitution errors |
 
 *This table will grow as skills are added.*
 
@@ -36,8 +36,8 @@ These skills were designed with the following in mind:
 
 - **Function over label** — skills target cognitive friction points, not diagnostic categories
 - **Forgiving input** — all skills are designed to work with messy, fragmentary, or voice-to-text input
-- **Voice preservation** — skills aim to help you communicate what you actually mean, not make you sound more neurotypical
-- **No masking** — the goal is reduced cognitive load, not performance of neurotypicality
+- **Voice preservation** — skills help you communicate what you actually mean, not make you sound like someone else
+- **No masking** — the goal is reduced cognitive load, not performing neurotypicality
 - **Composable** — skills are designed to work independently and alongside each other
 
 ## Status
