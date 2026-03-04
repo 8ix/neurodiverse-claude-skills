@@ -24,9 +24,23 @@ Anyone who finds that their brain creates friction around communication, task ma
 
 ## How to Install a Skill
 
+### Claude.ai (web or desktop)
+1. Download the skill folder you want from the `skills/` directory
+2. Zip the folder
+3. Go to **Settings > Features > Skills** and upload the zip file
+4. Enable the skill from your skills library
+5. Claude will automatically use it when relevant, or you can invoke it directly with `/skill-name`
+
+### Claude Code (terminal)
 1. Download the skill folder you want from the `skills/` directory
 2. Copy the folder to `~/.claude/skills/` (personal, available across all projects) or `.claude/skills/` (project-specific)
 3. Claude will automatically discover and use the skill when relevant, or you can invoke it directly with `/skill-name`
+
+### Claude Code via plugin marketplace
+```
+/plugin marketplace add 8ix/neurodiverse-claude-skills
+```
+Then browse and install individual skills.
 
 For more on how Claude skills work, see [Anthropic's skills documentation](https://docs.claude.com).
 
