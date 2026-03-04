@@ -1,8 +1,18 @@
 {
   "name": "neurodiverse-claude-skills",
   "owner": {
-    "name": "andbert"
+    "name": "8ix"
   },
-  "description": "A set of Claude skills built for neurodivergent profiles — dyslexia, ADHD, autism, and dyspraxia. Built by a neurodivergent person for personal use, shared openly.",
-  "plugins": []
+  "description": "Claude skills built around cognitive friction points — voice input, task breakdown, communication, and cognitive load. Built by a neurodivergent person for personal use, shared openly.",
+  "plugins": [
+    {
+      "name": "voice-input-processor",
+      "description": "Interprets messy, unstructured voice-to-text input, finds the intent, and reformats it for use",
+      "source": {
+        "source": "github",
+        "repo": "andbert/neurodiverse-claude-skills"
+      },
+      "skills": ["./skills/voice-input-processor"]
+    }
+  ]
 }
