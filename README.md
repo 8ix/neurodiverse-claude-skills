@@ -37,10 +37,15 @@ Anyone who finds that their brain creates friction around communication, task ma
 3. Claude will automatically discover and use the skill when relevant, or you can invoke it directly with `/skill-name`
 
 ### Claude Code via plugin marketplace
+1. Add the marketplace:
 ```
-/plugin marketplace add 8ix/neurodiverse-claude-skills
+   /plugin marketplace add 8ix/neurodiverse-claude-skills
 ```
-Then browse and install individual skills.
+2. Open the plugin browser:
+```
+   /plugin
+```
+3. Select **Browse and install plugins** and install the skills you want
 
 For more on how Claude skills work, see [Anthropic's skills documentation](https://docs.claude.com).
 
