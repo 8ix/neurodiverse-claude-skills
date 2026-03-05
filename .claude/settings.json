@@ -1,5 +1,6 @@
 {
   "enabledPlugins": {
-    "voice-input-processor@neurodiverse-claude-skills": true
+    "voice-input-processor@neurodiverse-claude-skills": true,
+    "brain-dump-organiser@neurodiverse-claude-skills": true
   }
 }
