@@ -13,6 +13,15 @@
         "repo": "8ix/neurodiverse-claude-skills"
       },
       "skills": ["./skills/voice-input-processor"]
+    },
+    {
+      "name": "brain-dump-organiser",
+      "description": "Takes everything on your mind and organises it into clear themes and structure with optional next steps",
+      "source": {
+        "source": "github",
+        "repo": "8ix/neurodiverse-claude-skills"
+      },
+      "skills": ["./skills/brain-dump-organiser"]
     }
   ]
 }

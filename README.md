@@ -19,6 +19,7 @@ Anyone who finds that their brain creates friction around communication, task ma
 | Skill | What It Does | Friction It Addresses |
 |-------|-------------|----------------------|
 | [voice-input-processor](skills/voice-input-processor/SKILL.md) | Interprets messy, unstructured voice-to-text input, finds the intent, and reformats it for use | Unstructured speech input, non-linear thinking, word substitution errors |
+| [brain-dump-organiser](skills/brain-dump-organiser/SKILL.md) | Takes everything on your mind and organises it into clear themes and structure with optional next steps | Overwhelm, scattered thinking, context switching, mixed thoughts |
 
 *This table will grow as skills are added.*
 
