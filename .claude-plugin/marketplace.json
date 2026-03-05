@@ -22,6 +22,15 @@
         "repo": "8ix/neurodiverse-claude-skills"
       },
       "skills": ["./skills/brain-dump-organiser"]
+    },
+    {
+      "name": "digest-this",
+      "description": "Digests any long, dense, or complex content into a short, low cognitive load summary. Activates automatically when long content is shared.",
+      "source": {
+        "source": "github",
+        "repo": "8ix/neurodiverse-claude-skills"
+      },
+      "skills": ["./skills/digest-this"]
     }
   ]
 }
